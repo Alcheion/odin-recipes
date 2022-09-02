@@ -4,6 +4,17 @@
     background-color: rgb(179, 45, 45);
 }
 
+.flexit {
+    display: inline;
+}
+
+.border {
+    border: black 10px double;
+    background-clip: content-box;
+    margin-block-start: 2rem;
+    padding: 0.9em;
+}
+
 
 .site-name {
     color: rgba(15, 15, 15, 0.877);
